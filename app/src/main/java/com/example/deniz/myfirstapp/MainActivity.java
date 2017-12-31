@@ -25,5 +25,7 @@ public class MainActivity extends AppCompatActivity {
         imageView.setImageResource(R.drawable.einstein);
 
 
+        dede
+
     }
 }
